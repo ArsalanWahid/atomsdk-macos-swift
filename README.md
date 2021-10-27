@@ -1,0 +1,1 @@
+# atomsdk-macos-swift
